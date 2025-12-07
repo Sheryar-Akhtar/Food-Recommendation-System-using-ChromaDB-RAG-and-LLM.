@@ -1,0 +1,9 @@
+**Purpose:**  
+- Lists all Python packages your project needs.  
+- Allows anyone to install dependencies with a single command.  
+
+**How to create it:**  
+- Run this in your terminal inside your project folder:
+
+```bash
+pip freeze > requirements.txt
